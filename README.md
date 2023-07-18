@@ -4,7 +4,7 @@
 <br/>
 
 ## 📌  Localidade
-- São Paulo, Capital.
+- São Paulo, Capital - Brasil.
 <br/>
 
 
