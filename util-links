@@ -3,8 +3,11 @@ Readme Badges: https://shields.io/badges
 
 Dev Icons: https://devicon.dev/
 
-Screen recorder online: https://www.flexclip.com/tools/screen-recorder/
-Conversor WEBM p/ Gif: https://convertio.co/pt/
+Colocar gif no readme:
+Gravar a tela; (https://www.flexclip.com/tools/screen-recorder/)
+Converter o arquivo para GIF; (https://convertio.co/pt/)
+Colocar em uma pasta demo, na raiz do projeto;
+No readme, adicionar na linha a exibir o gif, o comando ![](pasta/arquivo.gif)
 
 
 Padrão de README
