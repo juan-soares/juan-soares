@@ -5,7 +5,7 @@ Dev Icons: https://devicon.dev/
 
 Colocar gif no readme:
 Gravar a tela; (https://www.flexclip.com/tools/screen-recorder/)
-Converter o arquivo para GIF; (https://convertio.co/pt/)
+Converter o arquivo para GIF; (https://cloudconvert.com/webm-to-gif)
 Colocar em uma pasta demo, na raiz do projeto;
 No readme, adicionar na linha a exibir o gif, o comando ![](pasta/arquivo.gif)
 
